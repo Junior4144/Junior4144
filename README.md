@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Gustavo Buenrostro
 
 # About Me:
-    -I am a third-year computer engineering student at the University of Houston, passionate about exploring the realms of coding, back-end infrastructure, and building robust applications.
+I am a third-year computer engineering student at the University of Houston, passionate about exploring the realms of coding, back-end infrastructure, and building robust applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-jr-buenrostro/) 
@@ -9,8 +9,9 @@
 
 
 # 🚀 What I'm Up To:
-    - Building a large scale Spring application with a react front-end.
-    - Improving my YT clone project to include better UI design.
+* Building a large scale Spring application with a react front-end.
+* Improving my YT clone project to include better UI design.
+
 # 🌱 I’m currently learning: 
     -about the Spring framework in order to build back-end infrastucture.
 
