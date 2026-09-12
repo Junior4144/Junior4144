@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 **Time-tracking app** — React + ASP.NET Core + Supabase Postgres  
-[Tracksesh](https://github.com/Junior4144/Tracksesh) — a digital ledger for tracking how you spend your time; start a stopwatch, tag what you did, and browse history via charts and daily summaries.
+[Tracksesh](https://github.com/Junior4144/Tracksesh)
 
 **AI recruiter agent** — Python, Google Vertex AI RAG Engine, Google ADK  
-[recruiter-agent](https://github.com/Junior4144/recruiter-agent) — an agent that answers hiring/resume questions grounded in the transcripts of a specific recruiter's YouTube videos, rather than generic LLM knowledge.
+[recruiter-agent](https://github.com/Junior4144/recruiter-agent)
 
 **Lead Game Developer** — 900+ contributions — Unity, 2D    
 [The Tides of Andunië](https://nospoonstudio.itch.io/the-tides-of-andunie)
