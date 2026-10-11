@@ -1,27 +1,28 @@
-﻿Gustavo Buenrostro
+# Gustavo Buenrostro
 
 Software / AI Engineer based in Houston, TX. I build full-stack applications, AI tools, and games.
 
-Portfolio & résumé: https://www.gustavobuenrostro.com/
+[Portfolio & résumé](https://www.gustavobuenrostro.com/)
 
-Projects
+## Apps I've Built
 
-Orb Skirmish: Real-time multiplayer browser game. TypeScript, Node.js, Google Cloud.
-https://www.orb-skirmish.com/
+- [Orb Skirmish](https://www.orb-skirmish.com/) — Real-time multiplayer browser game.  
+  TypeScript, Node.js, Google Cloud
 
-CareerBrio: AI career guidance workspace. Next.js, RAG, Supabase.
-https://careerbrio.com/
+- [CareerBrio](https://careerbrio.com/) — AI career guidance workspace.  
+  Next.js, RAG, Supabase
 
-TrackSesh: Study session tracking app. React, ASP.NET Core, PostgreSQL.
-https://github.com/Junior4144/Tracksesh
+- [TrackSesh](https://github.com/Junior4144/Tracksesh) — Study session tracking app.  
+  React, ASP.NET Core, PostgreSQL
 
-Recruiter Agent: Career advice grounded in retrieved sources. Python, Vertex AI RAG Engine, Google ADK.
-https://github.com/Junior4144/recruiter-agent
+- [Recruiter Agent](https://github.com/Junior4144/recruiter-agent) — Career advice grounded in retrieved sources.  
+  Python, Vertex AI RAG Engine, Google ADK
 
-Games
+## Games
 
-The Tides of Andunië: Led systems development in Unity. First place at the UH Game Competition.
-https://nospoonstudio.itch.io/the-tides-of-andunie
+- [The Tides of Andunië](https://nospoonstudio.itch.io/the-tides-of-andunie) — Led systems development in Unity. First place at the UH Game Competition.
+- [Stealing Santa](https://junior4144.itch.io/stealing-christmas) — Co-developed a Unity game. Second place out of 90 submissions in the Christmas Game Jam.
 
-Stealing Santa: Co-developed a Unity game. Second place out of 90 submissions in the Christmas Game Jam.
-https://junior4144.itch.io/stealing-christmas
+## Background
+
+University of Houston · B.S. in Computer Science · Minor in Mathematics
